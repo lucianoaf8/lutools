@@ -1,0 +1,75 @@
+# ===========================
+# Backend (Python, Virtual Environment)
+# ===========================
+
+# Virtual environment directories
+Lib/
+Scripts/
+Include/
+bin/
+share/
+pyvenv.cfg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache
+pytest_cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pyre type checker
+.pyre/
+
+# Mypy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint reports
+pylint.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+# Backup files
+*~
+*.swp
+*.bak
+*.orig
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
